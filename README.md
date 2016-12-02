@@ -30,6 +30,6 @@ Building the project will create a .exe file through which the project can run o
 
 ## Authors
 
-* **Muhammad Moaz Khan** 
-* **Raza Yunus** 
-* **Emad ul Ehsan** 
+* **Muhammad Moaz Khan** - (https://github.com/moazkh60)
+* **Raza Yunus** - (https://github.com/razayunus)
+* **Emad ul Ehsan** - (https://github.com/emadehsan)
