@@ -1,6 +1,6 @@
 # Project Title
 
-Galactic Invaders game is developed in C. It was my semester project of Introduction to Computer Programming course. It's a console based game, it contains two games Galactic Warriors and Galactic Snake. The menu and both games can be controlled using arrow keys. All graphics have been made using ASCII characters.
+Galactic Invaders game is developed in C. It was my semester project of Introduction to Computer Programming course. It's a console based game, it contains two games Galactic Warriors and Galactic Snake. Game can be selected using a selectable menu and both games can be controlled using arrow keys. In Galactic Warriors try to shoot the enemy with bullets using spacebar while trying to dodge the enemy bullets. In Galactic Snake just eat the food to make the snake larger and avoid enemies  All graphics have been made using ASCII characters.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ Make a new project in your C compiler. Copy the files into your project and run
 
 ## Deployment
 
-Building the project will create a .exe file through which the project can be run on any windows machine.
+Building the project will create a .exe file through which the project can run on any windows machine.
 
 ## Built With
 
