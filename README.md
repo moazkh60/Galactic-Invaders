@@ -1,4 +1,4 @@
-# Project Title
+# Galactic Invaders
 
 Galactic Invaders game is developed in C. It was my semester project of Introduction to Computer Programming course. It's a console based game, it contains two games Galactic Warriors and Galactic Snake. Game can be selected using a selectable menu and both games can be controlled using arrow keys. In Galactic Warriors try to shoot the enemy with bullets using spacebar while trying to dodge the enemy bullets. In Galactic Snake just eat the food to make the snake larger and avoid enemies  All graphics have been made using ASCII characters.
 
